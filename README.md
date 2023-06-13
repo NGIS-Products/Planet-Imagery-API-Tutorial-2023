@@ -3,11 +3,13 @@
 
 This tutorial is an introduction to Planet's APIs, including the Data API. It provides code samples on how to write simple Python code to access Planet Satellite Imagery data.
 
-The focus of this tutorial will be the search portion of the Planet Data API. We will find and download imagery data using complex searches and save them for later use, as well as learn how to get stats on search results. After completing this tutorial, you should feel comfortable interacting with the Data API, and have a good foundation for leveraging the Planet Data API for your own applications.
+This tutorial is focsued on searching and downloading imagery using the Planet Data API. We will find and download imagery data using complex searches and save them for later use, as well as learn how to get statistics on search results. After completing this tutorial, you should feel comfortable interacting with the Data API, and have a good foundation for leveraging the Planet Data API in your own applications.
 
 Please note that you may benefit from prior experience with Python and using Planet imagery, but this is not required to complete the activity. 
 
 This script was presented to QLD Government Planet users in the QLD Government Planet Imagery Automation with Scripting APIs Virtual Training on the 22nd of May 2023.
+
+Thank you to Planet, and NGIS staff Nina, Givi, David and Brittany for their contributions. For more resources, please visit Planet's GitHub: https://github.com/planetlabs/notebooks
 
 ## 2. Resources
 
@@ -46,8 +48,8 @@ Please note that Planet have several APIs, including:
 
 ### 2.3 Prerequisites
 
-*   Planet QLD Government Account (If you do not have an account, please request an account using the following [link](https://spatial-qld-support.atlassian.net/servicedesk/customer/portals?q=QSat+access+request) or contact imagery@spatial-qld-support.atlassian.net).
-*   Planet API Key (available in the [Account page settings](https://www.planet.com/account) for Planet QLD Government Account holders)
+*   Planet Account - If you do not have a QLD Government Planet account, please request an account using the following [link](https://spatial-qld-support.atlassian.net/servicedesk/customer/portals?q=QSat+access+request) or contact imagery@spatial-qld-support.atlassian.net). If you are from another organisation, please contact NGIS: https://content.ngis.com.au/contact-us
+*   Planet API Key (available in the [Account page settings](https://www.planet.com/account) for Planet Account holders)
 *   Google Colab, Jupyter Notebooks or Python environment
 
 > **_NOTE:_**  *If using an environment outside of Google Colab, please ensure you have installed all packages before running. We recommend using Pip (i.e. !pip install json). Contact your Agency's IT if you have any errors.*
