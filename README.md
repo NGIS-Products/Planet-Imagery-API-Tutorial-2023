@@ -7,9 +7,7 @@ This tutorial is focsued on searching and downloading imagery using the Planet D
 
 Please note that you may benefit from prior experience with Python and using Planet imagery, but this is not required to complete the activity. 
 
-This script was presented to QLD Government Planet users in the QLD Government Planet Imagery Automation with Scripting APIs Virtual Training on the 22nd of May 2023.
-
-Thank you to Planet, and NGIS staff Nina, Givi, David and Brittany for their contributions. For more resources, please visit Planet's GitHub: https://github.com/planetlabs/notebooks
+This script was presented to QLD Government Planet users in the QLD Government Planet Imagery Automation with Scripting APIs Virtual Training on the 22nd of May 2023. Thank you to Planet, and NGIS staff Nina, Givi, David and Brittany for their contributions.
 
 ## 2. Resources
 
